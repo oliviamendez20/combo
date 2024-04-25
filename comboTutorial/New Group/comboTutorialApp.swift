@@ -6,12 +6,15 @@
 //
 
 import SwiftUI
+import SwiftUI
 
-@main
+//@main
 struct comboTutorialApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            
+            
         }
     }
 }
